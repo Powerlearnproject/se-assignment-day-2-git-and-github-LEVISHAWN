@@ -1,4 +1,4 @@
-# Software Engineering Day Assignment
+# Software Engineering Day 2 Assignment
 
 ## Git and GitHub Assignment
 
